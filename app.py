@@ -12,7 +12,6 @@ def load_data():
     return df
 
 df = load_data()
-st.write("Columns found:", df.columns.tolist())
 
 st.title("Puzzle Solving Times Dashboard")
 
