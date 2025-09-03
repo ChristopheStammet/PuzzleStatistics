@@ -1,4 +1,5 @@
-﻿name;level_3;level_6;level_9;level_12;level_15
-3413d;3;4;;5;6
-gfds;;;;;
-TEst;3;;;;
+﻿name,level_3,level_6,level_9,level_12,level_15
+3413d,3,4,,5,6
+gfds,,,,,
+TEst,3,,,,
+
